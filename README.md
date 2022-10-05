@@ -41,7 +41,7 @@ Installation
 ### Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/crissNb/Dynamic-Island-Sketchybar.git
+git clone https://github.com/Axo1234/DynamicPeninsula.git
 ```
 
 2. Copy all the contents of the repository in `~/.config/sketchybar` folder
