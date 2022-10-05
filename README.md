@@ -40,7 +40,8 @@ Installation
 
 ### Getting Started
 1. Clone the repository
-```bash
+```
+cd ~/.config/sketchybar/
 git clone https://github.com/Axo1234/DynamicPeninsula.git
 ```
 
